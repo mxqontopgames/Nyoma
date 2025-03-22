@@ -3,4 +3,5 @@ return {
     ["ABCXD4JW-786"] = { userId = 786, active = true },
     ["ABCFFDD8-3820990687"] = { userId = 3820990687, active = true },
     ["ABCJ2QDM-3820990687"] = { userId = 3820990687, active = true },
+    ["ABCUS4IT-4"] = { userId = 4, active = true },
 }
